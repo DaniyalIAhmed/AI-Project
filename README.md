@@ -4,8 +4,10 @@
 ## Submitted By
 - **Ahmed Abdullah** (22K-4449)  
 - **Daniyal Ahmed** (22K-4601)  
+- **Amar Singh** (22K-4607)  
 - **Course**: Artificial Intelligence  
-- **Instructor**: Miss Alishba Subhani  
+- **Instructor**: Miss Alishba Subhani 
+- **Instructor**: Miss Ramsha Jaat
 - **Submission Date**: May 11, 2025  
 
 ---
@@ -104,12 +106,16 @@ The game concept mixes Minesweeper-like tile exploration with bluff mechanics. P
 
 ### Ahmed Abdullah (22K-4449)
 - Developed the Minimax algorithm.
-- Integrated AI logic with the GUI.
-- Managed state transitions and backend game logic.
+- Designed Tkinter interface. 
+- Managed backend game logic.
 
 ### Daniyal Ahmed (22K-4601)
-- Designed the grid layout and Tkinter interface.
+- Designed the grid layout .
 - Handled booster and trap tile logic.
+- Managed state transitions
+
+### Amar Singh (22K-4607)
+- Integrated AI logic with the GUI.
 - Conducted testing and refined AI heuristics.
 
 ---
